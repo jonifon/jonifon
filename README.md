@@ -33,6 +33,7 @@
 </h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jonifon&theme=tokyonight-duo&hide_border=true&border_radius=4.4&mode=weekly" alt="stat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonifon&layout=compact&theme=tokyonight-duo" alt="Top Langs" />
 </div>
 
 <!--
