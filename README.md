@@ -31,7 +31,8 @@
 <h3>
 :fire: My Stats :
 </h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonifon&theme=tokyonight)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonifon&show_icons=true&theme=tokyonight&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en&hide_border=true&mode=weekly" alt="stat" />
+
 
 <!--
 **jonifon/jonifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
