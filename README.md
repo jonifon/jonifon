@@ -31,7 +31,7 @@
 <h3>
 :fire: My Stats :
 </h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonifon&show_icons=true&theme=tokyonight&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en&hide_border=true&mode=weekly" alt="stat" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jonifon&theme=tokyonight-duo&hide_border=true&border_radius=4.4&mode=weekly" alt="stat" />
 
 
 <!--
