@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/-bytearray%232622-grey?logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/-bytearray%232622-grey?logo=discord&logoColor=white" alt="Discord Badge"/ align="center">
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=jonifon&style=flat-square&color=blue" alt=""/>
