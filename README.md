@@ -28,11 +28,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<h3>
-:fire: My Stats :
-</h3>
+<h3>:fire: My Stats :</h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jonifon&theme=tokyonight-duo&hide_border=true&border_radius=4.4&mode=weekly" alt="stat" /><br>
+</div>
+<h3>:fire: My favorite languages :</h3>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonifon&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
