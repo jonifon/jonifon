@@ -4,7 +4,7 @@
   </h1>
   <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-    I'm Jonifon, a passionate developer exploring the realms of code!
+    I'm Joni Fon, a passionate developer exploring the realms of code!
   </p>
 </div>
 
